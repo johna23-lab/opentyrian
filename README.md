@@ -11,6 +11,10 @@ to fight MicroSol and save the galaxy.
 Tyrian features a story mode, one- and two-player arcade modes, and networked
 multiplayer.
 
+[![shot1](https://www.mobygames.com/images/shots/l/4468-tyrian-2000-dos-screenshot-level-1.gif)
+[![shot1](https://www.mobygames.com/images/shots/l/484348-tyrian-2000-dos-screenshot-take-a-look-at-the-ship-s-paint.png)
+
+
 == Additional Necessary Files ==================================================
 
 Tyrian 2.1 data files which have been released as freeware:
