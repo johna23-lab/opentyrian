@@ -1,6 +1,6 @@
 OpenTyrian
 ================================================================================
-This version already has the SDL libraries integrated in the binary and is available for 32 and 64 bits (Glibc 2.27 Ubuntu 18.04/Linux Mint 19.3)
+This version already is available for 32 and 64 bits (Glibc 2.27 Ubuntu 18.04/Linux Mint 19.3)
 
 OpenTyrian is an open-source port of the DOS game Tyrian.
 
