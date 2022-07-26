@@ -1,6 +1,6 @@
 OpenTyrian
 ================================================================================
-This version already is available for 32 and 64 bits (Glibc 2.27 Ubuntu 18.04/Linux Mint 19.3)
+This version already is available for 32, 64 bits (Glibc 2.27 Ubuntu 18.04/Linux Mint 19.3) and of course the ms-dos binaries (you can play it with dosbox too)
 
 OpenTyrian is an open-source port of the DOS game Tyrian.
 
